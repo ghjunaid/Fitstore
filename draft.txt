@@ -1,0 +1,33 @@
+padding: 0 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+
+
+
+<section id="new">
+        <div class="row">
+            <div class="one">
+                <img src="images/sneaker.jpg" alt="">
+                <div class="details">
+                    <h2>Extreme Rare Sneaker</h2>
+                    <button>Shop Now</button>
+                </div>
+            </div>
+            <div class="one">
+                <img src="images/sneaker.jpg" alt="">
+                <div class="details">
+                    <h2>Extreme Rare Sneaker</h2>
+                    <button>Shop Now</button>
+                </div>
+            </div>
+            <div class="one">
+                <img src="images/sneaker.jpg" alt="">
+                <div class="details">
+                    <h2>Extreme Rare Sneaker</h2>
+                    <button>Shop Now</button>
+                </div>
+            </div>
+        </div>
+    </section>
